@@ -1,1 +1,1 @@
-*take everything out*
+type something
